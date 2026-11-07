@@ -1,0 +1,7 @@
+{
+  "name": "ShopDirect - Single Shop Store & Management",
+  "description": "Complete mobile-first single shop ordering and management system with live cart, atomic inventory, order tracking, and unified owner administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
